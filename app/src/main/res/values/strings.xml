@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tryapp</string>
+    <string name="select_image">Select Image</string>
+    <string name="show_image">Show Image</string>
+</resources>
